@@ -12,7 +12,7 @@
   * [LEO Rules](rules/prime-fivem/leo-rules.md)
   * [Department Rules](rules/prime-fivem/department-rules.md)
 * [Project Badger FiveM](rules/project-badger/README.md)
-  * [Punishment Policy](rules/project-badger/untitled.md)
+  * [Punishment Policy](rules/project-badger/punishment-policy.md)
   * [FiveM & Discord Rules](rules/project-badger/fivem-and-discord-rules.md)
   * [Discord Rules](rules/project-badger/discord-rules.md)
   * [FiveM Rules](rules/project-badger/fivem-rules.md)
