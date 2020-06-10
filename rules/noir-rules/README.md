@@ -1,6 +1,6 @@
-# Project Badger FiveM
+# Noir Roleplay Rules
 
-Welcome to Project Badger's official rules and regulations. Here you will find what you are allowed and not allowed to do. Please make sure to thoroughly read through all of the rules, so we can all have a pleasant time RPing on Project Badger together!
+Welcome to Noir Roleplay's official rules and regulations. Here you will find what you are allowed and not allowed to do. Please make sure to thoroughly read through all of the rules, so we can all have a pleasant time RPing on Noir Roleplay together!
 
 {% page-ref page="punishment-policy.md" %}
 

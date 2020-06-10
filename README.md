@@ -1,6 +1,4 @@
-# Welcome to Prime Network
+# Welcome to Noir Roleplay
 
-{% page-ref page="rules/prime-fivem/" %}
-
-{% page-ref page="rules/project-badger/" %}
+{% page-ref page="rules/noir-rules/" %}
 
