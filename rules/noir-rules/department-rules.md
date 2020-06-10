@@ -8,6 +8,6 @@
 {% hint style="info" %}
 **Trying to join our community?**
 
-Find it here: [https://discord.gg/PzX7KsE](https://discord.gg/PzX7KsE)
+Find it here: [discord.gg/BB68c3d](https://discord.gg/BB68c3d)
 {% endhint %}
 
