@@ -28,11 +28,11 @@
 * Do not threaten another member's life.
 * Don't tell people to kill themselves / encourage suicidal thoughts.
 * Harassment and/or bullying of any kind is NOT allowed.
-* _DISCLAIMER: By taking part in sexual RP, you agree that you are of the age 18 or over and that Prime takes no responsibility for your actions. This is in accordance with the age of consent and underage sex laws._
+* _DISCLAIMER: By taking part in sexual RP, you agree that you are of the age 18 or over and that Noir Roleplay takes no responsibility for your actions. This is in accordance with the age of consent and underage sex laws._
 
 {% hint style="info" %}
 **Trying to join our community?**
 
-Find it here: [https://discord.gg/PzX7KsE](https://discord.gg/PzX7KsE)
+Find it here: [discord.gg/BB68c3d](https://discord.gg/BB68c3d)
 {% endhint %}
 
