@@ -30,12 +30,12 @@
 * You may encounter a bug with vehicle restriction permissions which allow you to spawn or drive all vehicles, only drive the ones you are normally allowed.
   * If you are found driving a vehicle that is normally restricted to you, it will lead to punishment.
 * Do not disconnect to avoid punishment or evade staff members. This will result in a temporary ban or permanent ban depending on your actions.
-* Abusing any loopholes found within the rules document are grounds for punishment, if you find a loophole, notify us via a ticket in the Prime discord and we can discuss an amendment to the rules document.
+* Abusing any loopholes found within the rules document are grounds for punishment, if you find a loophole, notify us via a ticket in the Noir Roleplay discord and we can discuss an amendment to the rules document.
 
 #### **Adult RP \(18+ ONLY\)**
 
 * Sexual RP is allowed but only to some extent. Going overboard with it may lead to punishment and eventually a temporary ban or permanent ban, punishment is up to the staff member's discretion. Sexual RP must be done via the /do command, if you perform Sexual RP in Global Chat, it will result in a temporary ban or permanent ban, depending on severity.
-* _DISCLAIMER: By taking part in sexual RP, you agree that you are of the age 18 or over and that Prime takes no responsibility for your actions. This is in accordance with the age of consent and underage sex laws._
+* _DISCLAIMER: By taking part in sexual RP, you agree that you are of the age 18 or over and that Noir Roleplay takes no responsibility for your actions. This is in accordance with the age of consent and underage sex laws._
 
 #### **Miscellaneous** 
 
