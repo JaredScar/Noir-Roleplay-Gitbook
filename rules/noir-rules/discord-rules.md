@@ -4,6 +4,7 @@
 
 * No excess unnecessary pings to any individual or ghost pings.
 * Don't create drama/conflict or argue with other members in any of the server discussion channels, create a ticket or take personal matters to DMs.
+ * Do not attempt to get a rise out of another member or staff in any sort of way, doing so will result in a punishment.
 * Do not post real people getting killed in any channel.
 * Only @ Staff if there is an emergency on the server. Otherwise, make a ticket.
 * No extremely loud mics within RTO or any Voice Channels.
