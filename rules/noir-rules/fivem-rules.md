@@ -16,6 +16,13 @@
   * Running from the cops because you "felt like it" is also not a valid reason.
   * _Alternatively, if you would like to run from the cops without one of the reasons specified above, you may ask the cop in /ooc if he would like a 10-80. If he accepts, only then can you RP a 10-80 out without meeting the above criteria previously described._
 * You must wear realistic clothing, you're not allowed to wear full body armour unless it is apart of your roleplay and you're in a situation where it is needed. (This does not apply for LEO or SANG)
+* You're not allowed to drive any sort of armoured vehicle(s) unless you're active SRT/SWAT or active NG.
+* You're not allowed to do excessive criminal rp, this means you're not allowed to rob banks, rob people, shoot cops, run from cops excessively. You will be punished based off the discretion of staff.
+* You're not allowed to do excessive gun rp, this means you're not allowed to do an excessive amount of gun rp related scenario's, you will be punished based off the discretion of staff.
+* You must keep every RP scenario realistic, you must not do things you would not do or see in real life use your best judgement when creating/doing RP scenario's.
+* You're not allowed to use planes or helicopters as an advantage to run from the police, you will be punished based off the discretion of staff.
+
+
 
 #### **Restricted Areas/Locations**
 
