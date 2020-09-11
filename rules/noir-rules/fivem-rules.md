@@ -21,6 +21,22 @@
 * You're not allowed to do excessive gun rp, this means you're not allowed to do an excessive amount of gun rp related scenario's, you will be punished based off the discretion of staff.
 * You must keep every RP scenario realistic, you must not do things you would not do or see in real life use your best judgement when creating/doing RP scenario's.
 * You're not allowed to use planes or helicopters as an advantage to run from the police, you will be punished based off the discretion of staff.
+*
+
+
+
+#### **Gang Rules**
+* Follow all rules in #📌rules.
+* Do not begin a gang war without both sides agreeing. - See rule 6 
+* No KOS without both sides agreeing, if you are told to stop KOS or one side wants to stop, you stop. [KOS may only be active for 10 minutes and cannot be done during priority cooldown.]
+* Gangs still need to respect the LEO's and should not do excessive gun RP.
+* One gang cannot be immune from one gang, if you want to be immune to a gang you may RP an alliance.
+* One gang cannot begin a gang war on another gang for no reason, it must be mutually agreed or initiated by one side, for example a kidnapping of one of the members, in this case the gang can retaliate, but must be reasonable. [Do not just snipe the gang from far away unless they are going to kill your kidnapped member, or are torturing them. Do a /me in chat to indicate what you are doing]. This also stops misidentification, both sides must know who is involved in the gang war.
+* Meta game will result in your gang being suspended for a week, if this goes further you may be blacklisted from owning a gang.
+* Excessive gun RP will also result in a warning or a suspension. [This also goes for any Fail RP]
+
+*Gang wars and 10 minute KOS cannot be an RDM fest, it must be under control at all times and must not disturb other players on the server, after 10 minutes you must not initiate another KOS for 24 hours. During the KOS period, drive bys, snipings and other things alike will be allowed but must still be RP'd with /me, for example: /me grabs sniper and aims at other gang. Do not treat KOS like GTA Online.*
+
 
 
 
