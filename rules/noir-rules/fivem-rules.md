@@ -21,7 +21,7 @@
 * You're not allowed to do excessive gun rp, this means you're not allowed to do an excessive amount of gun rp related scenario's, you will be punished based off the discretion of staff.
 * You must keep every RP scenario realistic, you must not do things you would not do or see in real life use your best judgement when creating/doing RP scenario's.
 * You're not allowed to use planes or helicopters as an advantage to run from the police, you will be punished based off the discretion of staff.
-*
+* 
 
 
 
@@ -55,6 +55,7 @@
   * If you are found driving a vehicle that is normally restricted to you, it will lead to punishment.
 * Do not disconnect to avoid punishment or evade staff members. This will result in a temporary ban or permanent ban depending on your actions.
 * Abusing any loopholes found within the rules document are grounds for punishment, if you find a loophole, notify us via a ticket in the Noir Roleplay discord and we can discuss an amendment to the rules document.
+* Exploiting a bug without reporting it to staff will result in an immediate ban, you can report an exploit by making a ticket on our discord. 
 
 #### **Adult RP \(18+ ONLY\)**
 
