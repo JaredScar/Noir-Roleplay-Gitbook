@@ -15,6 +15,31 @@
   * Running from the cops for "going 5 over" is not a valid reason.
   * Running from the cops because you "felt like it" is also not a valid reason.
   * _Alternatively, if you would like to run from the cops without one of the reasons specified above, you may ask the cop in /ooc if he would like a 10-80. If he accepts, only then can you RP a 10-80 out without meeting the above criteria previously described._
+* You must wear realistic clothing, you're not allowed to wear full body armour unless it is apart of your roleplay and you're in a situation where it is needed. (This does not apply for LEO or SANG)
+* You're not allowed to drive any sort of armoured vehicle(s) unless you're active SRT/SWAT or active NG.
+* You're not allowed to do excessive criminal rp, this means you're not allowed to rob banks, rob people, shoot cops, run from cops excessively. You will be punished based off the discretion of staff.
+* You're not allowed to do excessive gun rp, this means you're not allowed to do an excessive amount of gun rp related scenario's, you will be punished based off the discretion of staff.
+* You must keep every RP scenario realistic, you must not do things you would not do or see in real life use your best judgement when creating/doing RP scenario's.
+* You're not allowed to use planes or helicopters as an advantage to run from the police, you will be punished based off the discretion of staff.
+* You're not allowed to steal LEO or Fire/EMS vehicles at any cost, doing so will result in a punishment based off the discretion of staff
+* You're not allowed to enter your home if you're actively on the run from police, doing so will result in a punishment based off the discretion of staff.
+
+
+
+#### **Gang Rules**
+* Follow all rules in #📌rules.
+* Do not begin a gang war without both sides agreeing. - See rule 6 
+* No KOS without both sides agreeing, if you are told to stop KOS or one side wants to stop, you stop. [KOS may only be active for 10 minutes and cannot be done during priority cooldown.]
+* Gangs still need to respect the LEO's and should not do excessive gun RP.
+* One gang cannot be immune from one gang, if you want to be immune to a gang you may RP an alliance.
+* One gang cannot begin a gang war on another gang for no reason, it must be mutually agreed or initiated by one side, for example a kidnapping of one of the members, in this case the gang can retaliate, but must be reasonable. [Do not just snipe the gang from far away unless they are going to kill your kidnapped member, or are torturing them. Do a /me in chat to indicate what you are doing]. This also stops misidentification, both sides must know who is involved in the gang war.
+* Meta game will result in your gang being suspended for a week, if this goes further you may be blacklisted from owning a gang.
+* Excessive gun RP will also result in a warning or a suspension. [This also goes for any Fail RP]
+
+*Gang wars and 10 minute KOS cannot be an RDM fest, it must be under control at all times and must not disturb other players on the server, after 10 minutes you must not initiate another KOS for 24 hours. During the KOS period, drive bys, snipings and other things alike will be allowed but must still be RP'd with /me, for example: /me grabs sniper and aims at other gang. Do not treat KOS like GTA Online.*
+
+
+
 
 #### **Restricted Areas/Locations**
 
@@ -31,6 +56,7 @@
   * If you are found driving a vehicle that is normally restricted to you, it will lead to punishment.
 * Do not disconnect to avoid punishment or evade staff members. This will result in a temporary ban or permanent ban depending on your actions.
 * Abusing any loopholes found within the rules document are grounds for punishment, if you find a loophole, notify us via a ticket in the Noir Roleplay discord and we can discuss an amendment to the rules document.
+* Exploiting a bug without reporting it to staff will result in an immediate ban, you can report an exploit by making a ticket on our discord. 
 
 #### **Adult RP \(18+ ONLY\)**
 
