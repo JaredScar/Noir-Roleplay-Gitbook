@@ -22,6 +22,7 @@
 * You must keep every RP scenario realistic, you must not do things you would not do or see in real life use your best judgement when creating/doing RP scenario's.
 * You're not allowed to use planes or helicopters as an advantage to run from the police, you will be punished based off the discretion of staff.
 * You're not allowed to steal LEO or Fire/EMS vehicles at any cost, doing so will result in a punishment based off the discretion of staff
+* You're not allowed to enter your home if you're actively on the run from police, doing so will result in a punishment based off the discretion of staff.
 
 
 
